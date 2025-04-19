@@ -19,7 +19,7 @@ servers:
 # Note: If using Cloudflare, set encryption mode in SSL/TLS setting to "Full" to enable CF-to-app encryption.
 proxy:
   ssl: false
-  host: 34.10.142.131
+  host: mariogegprifti.com
   
 
 # Credentials for your image host.
