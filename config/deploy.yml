@@ -19,8 +19,7 @@ servers:
 # Note: If using Cloudflare, set encryption mode in SSL/TLS setting to "Full" to enable CF-to-app encryption.
 proxy:
   ssl: true
-  host: app.example.com
-  target: http://store-web-2470cfe10edd66ea571016252f7202c73e6de286:3000
+  host: http://store-web-2470cfe10edd66ea571016252f7202c73e6de286:3000
 
 # Credentials for your image host.
 registry:
